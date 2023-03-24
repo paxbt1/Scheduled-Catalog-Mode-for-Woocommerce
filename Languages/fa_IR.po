@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-09 00:38+0430\n"
+"PO-Revision-Date: 2022-04-08 20:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#: includes/Class/Options.php:155
+msgid "by checking this Catalog mode is enabled for 24/7"
+msgstr ""
+
+#: includes/Class/Options.php:161
+msgid "Catalog Mode"
+msgstr "حالت نمایشگاه"
+
+#: includes/Class/Options.php:153
+msgid "Force to catalog mode all time !"
+msgstr ""
+
+#: includes/Class/Options.php:137
+msgid "Friday"
+msgstr "جمعه"
+
+#: includes/Class/Options.php:81
+msgid "From:"
+msgstr "شروع از: "
+
+#. URI of the plugin
+msgid "http://wordpressgeek.net/woocommerce-scheduled-catalog-mode/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/saeed-ghourbanian/"
+msgstr ""
+
+#: includes/Class/Options.php:75
+msgid "Message"
+msgstr "پیام جایگزین دکمه افزودن به سبد خرید"
+
+#: includes/Class/Options.php:113
+msgid "Monday"
+msgstr "دوشنبه"
+
+#. Author of the plugin
+msgid "Saeed Ghourbanian Rafaat"
+msgstr ""
+
+#: includes/Class/Options.php:143
+msgid "Saturday"
+msgstr "شنبه"
+
+#: includes/Class/Options.php:28
+msgid "Scheduled Catalog Mode"
+msgstr "بستن فروش زمانبندی شده"
+
+#. Description of the plugin
+msgid ""
+"scheduled catalog mode make you be able to close your online shop in exact "
+"time of days of week"
+msgstr ""
+
+#: includes/Class/Options.php:100
+msgid "Select the days that you want to schedule for"
+msgstr ""
+
+#: includes/Class/Options.php:90
+msgid "Select time to end catalog mode, you can scroll for other houres number"
+msgstr ""
+
+#: includes/Class/Options.php:83
+msgid ""
+"Select time to start catalog mode, you can scroll for other houres number"
+msgstr ""
+
+#: includes/Class/Options.php:77
+msgid "Show this message instead of Add To Cart Button"
+msgstr ""
+
+#: includes/Class/Options.php:107
+msgid "Sunday"
+msgstr ""
+
+#: scheduled-catalog-mode.php:42
+msgid ""
+"There is no Time Zone has been Setted up please select your time zone from: "
+"Settings/General/Timezone"
+msgstr ""
+
+#: includes/Class/Options.php:131
+msgid "Thursday"
+msgstr ""
+
+#: includes/Class/Options.php:88
+msgid "To:"
+msgstr ""
+
+#: includes/Class/Options.php:119
+msgid "Tuesday"
+msgstr ""
+
+#: includes/Class/Options.php:125
+msgid "Wednesday"
+msgstr ""
+
+#: includes/Class/Options.php:71
+msgid "With this you can schedule the catalog mode automatically ."
+msgstr ""
+
+#: includes/Class/Options.php:69
+msgid "Woocommerce schedule Catalog Mode Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "woocommerce scheduled catalog mode"
+msgstr ""
